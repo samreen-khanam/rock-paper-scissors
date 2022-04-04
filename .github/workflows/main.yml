@@ -1,3 +1,5 @@
+# This is a sample workflow build example
+
 name: Github actions Maven build Example
 
 on:
